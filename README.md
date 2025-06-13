@@ -12,5 +12,5 @@ Topics:
 
 MCU: ATmega328P
 
-Access slides and guides here:
+Access videos here:
 https://drive.google.com/drive/folders/1yKK_xiV3pIwadip6iYbmCqCaIvCVk6nl?usp=drive_link
